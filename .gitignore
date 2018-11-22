@@ -1,0 +1,7 @@
+/node_modules
+/test/js
+.DS_Store
+*.log
+.idea
+.vscode
+/dist

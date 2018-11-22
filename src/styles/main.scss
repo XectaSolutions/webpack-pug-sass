@@ -1,0 +1,15 @@
+$primarycolor: orange;
+$fontsize: 40px;
+body {
+  background: url("../images/xecta-logo.png") no-repeat top center;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+h1 {
+  color: $primarycolor;
+  font-size: $fontsize;
+}
