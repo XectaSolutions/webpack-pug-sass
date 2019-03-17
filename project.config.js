@@ -7,6 +7,6 @@ module.exports = {
   minifyHTML: true,
   minifyJS: true,
   minifyCSS: true,
-  homePage: "home.html",
-  templateFiles: ["./src/pages/home.pug"]
+  homePage: "index.html",
+  templateFiles: ["./src/pages/index.html", "./src/pages/aboutus.pug"]
 };
