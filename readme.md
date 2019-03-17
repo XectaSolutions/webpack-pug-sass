@@ -57,9 +57,10 @@ yarn or npm build command wlll buil the output under `dist` folder by default.
 yarn build
 ```
 
-#What if I don't need Pug or Typescript support
+## What if I don't need Pug or Typescript support
 
 Well, you're not forced to use Pug or Typescript. You can use this config for building normal HTML and Javascript websites. It adds no extra baggage.
 
-#Future Enhancements Planned
+## Future Enhancements Planned
+
 An option to generate webpack and post css config file interactively.
